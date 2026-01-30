@@ -1,7 +1,7 @@
 # Lock — Client Background & North Star Metrics
 
 ## Client Background
-Lock is a South Korea–based e-commerce storefront specialising in smart locks and home access products for residential and small business customers.
+Lock is a South Korean based e-commerce storefront specialising in smart locks and home access products for residential and small business customers.
 
 As competition in smart home hardware grows and more customers buy online, Lock needs a clear picture of what’s actually driving purchases across their site.
 
